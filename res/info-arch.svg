@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1447.82 1408.28"
+   version="1.1"
+   id="svg1740"
+   sodipodi:docname="info-arch.svg"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata
+     id="metadata1744">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1859"
+     inkscape:window-height="1056"
+     id="namedview1742"
+     showgrid="false"
+     inkscape:zoom="0.63"
+     inkscape:cx="350.50541"
+     inkscape:cy="1023.6149"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1740" />
+  <defs
+     id="defs1706">
+    <style
+       id="style1704">.cls-1{fill:none;stroke:#4542d9;stroke-miterlimit:10;stroke-width:20px;}</style>
+  </defs>
+  <title
+     id="title1708">INFORMATION ARCHITECTURE</title>
+  <line
+     class="cls-1"
+     x1="716.13"
+     y1="328.81"
+     x2="716.13"
+     y2="744.87"
+     id="line1716"
+     style="fill:none;stroke:#ffffff;stroke-width:20px;stroke-miterlimit:10;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="1147.65"
+     y1="1079.47"
+     x2="1147.65"
+     y2="738.87"
+     id="line1736"
+     style="fill:none;stroke:#ffffff;stroke-width:20px;stroke-miterlimit:10;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="297.17001"
+     y1="1079.47"
+     x2="297.17001"
+     y2="738.87"
+     id="line1734"
+     style="fill:none;stroke:#ffffff;stroke-width:20px;stroke-miterlimit:10;stroke-opacity:1" />
+  <rect
+     class="cls-1"
+     x="428.95999"
+     y="10"
+     width="574.34998"
+     height="318.81"
+     id="rect1710"
+     style="fill:#ffffff;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10;fill-opacity:1" />
+  <rect
+     class="cls-1"
+     x="10"
+     y="1079.47"
+     width="574.34998"
+     height="318.81"
+     id="rect1712"
+     style="fill:#ffffff;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10;fill-opacity:1" />
+  <rect
+     class="cls-1"
+     x="863.46997"
+     y="1079.47"
+     width="574.34998"
+     height="318.81"
+     id="rect1714"
+     style="fill:#ffffff;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10;fill-opacity:1" />
+  <line
+     class="cls-1"
+     x1="1150.65"
+     y1="744.87"
+     x2="716.13"
+     y2="744.87"
+     id="line1718"
+     style="fill:none;stroke:#ffffff;stroke-width:20px;stroke-miterlimit:10;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="296.17001"
+     y1="744.87"
+     x2="716.13"
+     y2="744.87"
+     id="line1720"
+     style="fill:none;stroke:#ffffff;stroke-width:20px;stroke-miterlimit:10;stroke-opacity:1" />
+  <line
+     class="cls-1"
+     x1="506.14999"
+     y1="105.01"
+     x2="926.10999"
+     y2="105.01"
+     id="line1722"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+  <line
+     class="cls-1"
+     x1="506.14999"
+     y1="219.86"
+     x2="926.10999"
+     y2="219.86"
+     id="line1724"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+  <line
+     class="cls-1"
+     x1="86.190002"
+     y1="1181.45"
+     x2="506.14999"
+     y2="1181.45"
+     id="line1726"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+  <line
+     class="cls-1"
+     x1="86.190002"
+     y1="1296.29"
+     x2="506.14999"
+     y2="1296.29"
+     id="line1728"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+  <line
+     class="cls-1"
+     x1="940.66998"
+     y1="1181.45"
+     x2="1360.63"
+     y2="1181.45"
+     id="line1730"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+  <line
+     class="cls-1"
+     x1="940.66998"
+     y1="1296.29"
+     x2="1360.63"
+     y2="1296.29"
+     id="line1732"
+     style="fill:none;stroke:#4542d9;stroke-width:20px;stroke-miterlimit:10" />
+</svg>

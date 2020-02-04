@@ -1,0 +1,25 @@
+@media only screen and (max-width:800px){
+  body .service.left{
+    grid-template-columns:100%;
+    width:100%;
+    left:0;
+  }
+  body .service.right{
+    grid-template-columns:100%;
+    width:100%;
+    left:0;
+  }
+  body .service.left div{
+    border-right:none;
+  }
+  body .service.right div{
+    border-left:none;
+  }
+  body .contact .wrapper{
+    grid-template-columns:100%;
+  }
+  body .landing div{
+    width:100%;
+    left:0;
+  }
+}
