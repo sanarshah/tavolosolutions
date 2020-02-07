@@ -124,11 +124,15 @@ a:hover{
 
 /* Landing */
 div.landing{
-  background:url(../res/sandbox.png);
   padding-bottom:50px;
   padding-top:105px;
   position:relative;
   width:100%;
+}
+div.landing > div{
+  transition:opacity 1.5s ease;
+  box-shadow:0 0 10px #aaa;
+  opacity:0;
 }
 img.landing{
   position:relative;
