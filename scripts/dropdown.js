@@ -9,7 +9,15 @@ $(window).ready(function(){
 
   setTimeout(() => $("div.landing > div").css("opacity","1"),250);
 
-  //$(".contact").visible(() => alert("Hi lol"));
-  // Test using onscroll and calculate Y offset, screenHeight and scroll offset
+  $(window).scroll(function(){
+    let bottom_of_window = $(window).scrollTop() + $(window).outerHeight();
+    let offset=$(".content").offset().top;
+    $('.service').each(function(){
+      var bottom_of_object = $(this).offset().top + 100;
+      if(bottom_of_window>bottom_of_object){
+        $(this).animate({'opacity':'1'},500);
+      }
+    });
+  });
 
 });

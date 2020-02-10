@@ -163,6 +163,7 @@ img.landing{
 
 /* Services */
 .service{
+  opacity:0;
   position:relative;
   display:grid;
   width:80%;
@@ -194,12 +195,12 @@ img.landing{
 }
 .service img{
   background-color:var(--purple);
-  transform:translateY(-50%);
+  /*transform:translateY(-50%);*/
   width:calc(100% - 20px);
   border-radius:15px;
   position:relative;
   padding:10px;
-  top:50%;
+  /*top:50%;*/
 }
 
 /* Contact */
