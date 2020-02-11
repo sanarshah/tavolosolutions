@@ -1,4 +1,8 @@
 @media only screen and (max-width:800px){
+  body .service{
+    width:100%;
+    left:0;
+  }
   body .service.left{
     grid-template-columns:100%;
     width:100%;
