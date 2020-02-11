@@ -3,6 +3,15 @@
     width:100%;
     left:0;
   }
+  body .service > div{
+    text-align:center;
+  }
+  body .service.left h1{
+    text-align:center;
+  }
+  body .service.right h1{
+    text-align:center;
+  }
   body .service.left{
     grid-template-columns:100%;
     width:100%;
