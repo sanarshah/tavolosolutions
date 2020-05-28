@@ -208,6 +208,11 @@ img.landing{
   /*top:50%;*/
 }
 
+/* About */
+img.sana{
+	border-radius:50%;
+}
+
 /* Contact */
 .contact{
   color:var(--blue);
